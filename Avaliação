@@ -1,0 +1,27 @@
+      <p>Cultivate your imagination</p>
+      <button>Join Waintilist</button>
+      </div>
+    </section> 
+        <main>
+          <h2>Reading together anywhere</h2>
+          <ul>
+            <li>
+              <img scr="#"></a>
+          <h4>The modern book club</h4>
+          <p>Join the get smart movement...</p>
+          </li>
+  <li>
+    <img scr="#" ></a>
+<h4>Digital Nutrition</h4>
+<p>It is time to put mobile screens in service of our metal wellness...</p>
+</li>
+</ul>
+</main>
+<div>
+  <h1>Be the first to know</h1>
+  <h>We are thrllled to add your to our list</h4>
+  <label for ="email"></label>
+  <input type="email" name="email"required/>
+  <input type="button"/>
+  </div>
+    
